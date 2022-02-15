@@ -1,6 +1,6 @@
 - name: ArcGIS Online Dashboard
   url: https://arcg.is/14LeSb
-  description: Override the digital divide with additional clickthroughs from DevOps. User generated content in real-time will have multiple touchpoints for offshoring.
+  description: Interactive online dashboard showing voluntary commitments submitted to sdgs.un.org
   status: live
   tags:
     - ArcGis
@@ -9,12 +9,47 @@
   icon: website
   image: images/gpdashboard.png
 
-- name: Example 2
-  url: https://github.com
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+- name: Power BI Inspira Data Exploration
+  description: Data exploration of inspira.un.org posts
   status: live
   tags:
-    - JavaScript
-    - HTML
+    - Power BI
+    - Data Analysis
+    - Personal
+    - Web scrapping
+    - Python
   icon: website
-  image: images/project.jpg
+  image: images/inspira.png
+
+- name: Sustainable Development Knowledge Platform
+  url: https://sdgs.un.org/
+  description: Project manager of the design, development, deployment and data migration of a large website
+  status: live
+  tags:
+    - Project Management
+    - Web Development
+    - Drupal 9
+  icon: website
+  image: images/sdgsorg.png
+
+- name: International Migration Infographic
+  description: Design of an infographic based on a report
+  status: live
+  tags:
+    - Infographic
+    - Data Visualization
+  icon: website
+  image: images/migration3.png
+
+- name: El Industrial
+  url: https://elindustrial.mx/
+  description: Web design and development of a jamstack news website and integration to a headless CMS
+  status: live
+  tags:
+    - Web Development
+    - Jamstack
+    - Gatsby
+    - Headless CMS
+    - Contentful
+  icon: website
+  image: images/industrial.png

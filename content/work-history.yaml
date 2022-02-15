@@ -1,18 +1,31 @@
 - company: DESA, United Nations
   position: Web Developer
-  period: October 2016 - present
+  period: November 2016 - present
   url: https://sdgs.un.org
 
-- company: Atomic Studio
-  position: Web Developer
-  period: January 2014 - December 2017
-  url: https://atomic.studio
+- company: ECLAC, Mexico
+  position: Chief, Information Systems Unit
+  period: March 2016 - November 2016
+  url: https://www.cepal.org/en/headquarters-and-offices/eclac-mexico
 
-- company: WebConnect Agency
-  position: Junior Web Developer
-  period: November 2010 - December 2013
-  url:
+- company: DESA, DGC, United Nations
+  position: Web Developer, Content Editor
+  period: October 2014 - March 2016
+
+- company: UN Women, DGC, United Nations
+  position: Web Developer, Content Editor
+  period: October 2008 - September 2012
+
+- company: Fundación Thyssen-Bornemisza, Spain
+  position: Programmer, IT Support
+  period: October 2007 - June 2008
+  url: https://www.museothyssen.org/en
 
 - company: Freelance
   position: Web Developer
-  period: April 2008 - October 2010
+  period: December 2005 - September 2007
+
+- company: Servnet
+  position: Backend. PHP Developer
+  period: January 2005 - December 2005
+  url: https://www.servnet.mx/

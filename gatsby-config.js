@@ -3,7 +3,7 @@ module.exports = {
     siteUrl: `https://www.yourdomain.tld`,
     description: "Personal page of Ernesto Araiza",
     locale: "en",
-    title: "Ernesto Araiza",
+    title: "💻 Ernesto Araiza - Web Developer",
   },
   plugins: ["gatsby-plugin-image", "gatsby-plugin-react-helmet", "gatsby-plugin-sitemap", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
     resolve: 'gatsby-source-filesystem',
