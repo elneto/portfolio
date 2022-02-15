@@ -9,5 +9,11 @@ module.exports = {
       "path": "./src/images/"
     },
     __key: "images"
-  }]
+  },{
+    resolve: "@wkocjan/gatsby-theme-intro",
+    options: {
+      theme: "classic",
+    },
+  },
+]
 };
