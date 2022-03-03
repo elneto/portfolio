@@ -1,3 +1,17 @@
+- name: Interactive Events Listing
+  url: https://interactive-events.vercel.app/
+  description: Interactive listing of events that can be filtered by type and location. It has a JSON API Drupal backend.
+  status: in progress
+  tags:
+    - Jamstack
+    - Svelte
+    - Json API
+    - Headless Drupal
+    - Web Development
+    - Drupal 9
+  icon: website
+  image: images/ievents.png
+
 - name: ArcGIS Online Dashboard
   url: https://arcg.is/14LeSb
   description: Interactive online dashboard showing voluntary commitments submitted to sdgs.un.org
