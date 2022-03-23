@@ -1,9 +1,24 @@
-- name: Interactive Events Listing
-  url: https://interactive-events.vercel.app/
-  description: Interactive listing of events that can be filtered by type and location. It has a JSON API Drupal backend.
+- name: Bilingual UN website
+  url: https://uncrdastro.vercel.app/
+  description: Bilingual JAMstack website using Astro + Svelte and Tailwindcss. It has a Forestry.io headless CMS to help editors with the Markdown content.
   status: in progress
   tags:
-    - Jamstack
+    - JAMstack
+    - Astro
+    - Svelte
+    - Tailwindcss
+    - Headless CMS
+    - Markdown
+    - Web Development
+  icon: website
+  image: images/uncrd.png
+
+- name: Interactive Events Listing for Conference
+  url: https://www.un.org/en/conferences/ocean2022/programme
+  description: Interactive listing of events that can be filtered by type and location. It has a JSON API Drupal backend.
+  status: live
+  tags:
+    - JAMstack
     - Svelte
     - Json API
     - Headless Drupal
@@ -37,7 +52,7 @@
 
 - name: Sustainable Development Knowledge Platform
   url: https://sdgs.un.org/
-  description: Project manager of the design, development, deployment and data migration of a large website
+  description: Project manager of the design, development, deployment and data migration of a large, multilingual website
   status: live
   tags:
     - Project Management
