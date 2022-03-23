@@ -28,6 +28,9 @@ const Sidebar = ({ profile, social }) => (
         <h2 className="font-header font-semibold text-front text-2xl leading-none mt-8">
             Blogs
         </h2>
+        <ul className="mt-4 underline">
+          <li><a href="/blog/2022-03-16/drupal-is-dead">16 Mar - Drupal is dead</a></li>
+        </ul>
       </div>
       </div>
       
