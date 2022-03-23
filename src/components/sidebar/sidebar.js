@@ -24,14 +24,17 @@ const Sidebar = ({ profile, social }) => (
             relocation={profile.relocation}
           />
         )}
+      <div>
+        <h2 className="font-header font-semibold text-front text-2xl leading-none mt-8">
+            Blogs
+        </h2>
       </div>
-      <h2 className="font-header font-light text-front text-2xl leading-none mb-4">
-          Blogs
-      </h2>
+      </div>
+      
 
       <div className="pt-8 pb-12 lg:py-0">
         <h5 className="font-header font-semibold text-front text-sm uppercase mb-3">
-          Connectaa
+          Connect
         </h5>
         <SocialLinks social={social} />
       </div>
