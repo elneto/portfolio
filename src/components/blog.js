@@ -5,7 +5,7 @@ import CustomFonts from "@wkocjan/gatsby-theme-intro/src/components/custom-fonts
 import Footer from "@wkocjan/gatsby-theme-intro/src/components/footer/footer"
 import Header from "@wkocjan/gatsby-theme-intro/src/components/header/header"
 import SEO from "@wkocjan/gatsby-theme-intro/src/components/seo/seo"
-import Sidebar from "@wkocjan/gatsby-theme-intro/src/components/sidebar/sidebar"
+import Sidebar from "./sidebar/sidebar"
 import StructuredData from "@wkocjan/gatsby-theme-intro/src/components/structured-data/structured-data"
 import "@wkocjan/gatsby-theme-intro/src/styles/style.css"
 
@@ -45,8 +45,8 @@ const Entry = ({ children }) => {
 
       <main className="lg:w-2/3 lg:pl-8 xl:pl-12">
         {children}
-        <p>
-          <Link to="/"><p class="text-blue-500 underline">Go Back Home</p></Link>
+        <p className="text-blue-500 underline">
+          <Link to="/">Go Back Home</Link>
         </p>
       </main>
       </div>

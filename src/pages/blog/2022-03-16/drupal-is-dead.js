@@ -4,8 +4,8 @@ import Blog from "../../../components/blog"
 const Text = () => {
   return (
      <Blog>
-      <h1 class="font-header font-black text-front text-2xl leading-none break-words mb-6">Drupal is dead. Long live the Jamstack!</h1>
-      <h2 class="mb-6 font-header font-black">16 March 2022</h2>
+      <h1 className="font-header font-black text-front text-2xl leading-none break-words mb-6">Drupal is dead. Long live the Jamstack!</h1>
+      <h2 className="mb-6 font-header font-black">16 March 2022</h2>
       <p>Generally, a website is made of two parts: content and presentation. The content is usually stored in databases such as MySQL; and the presentation is made with HTML tags, CSS and Javascript.</p>
       <p>Monolithic content management systems (CMSs) such as Drupal, provide these two parts in a single product. All your content, like pages, news, events, blogs, etc. is stored in MySQL. Then it is transformed via PHP code and templates into HTML that can be understood and displayed by your browser. Every time a user visits a page in your Drupal website, a request is made to the server that accesses the database, generates the HTML and sends it to your browser. This is the old way of doing things.</p>
       <p>A few years ago, a new philosophy was born: JAMstack. The Its acronym stands for Javascript, APIs and Markup. Basically, it proposes that a system can be distributed. That data can come from many places, not a single database, and that it can be accessed via APIs. Finally, you need some markup (such as HTML) to send to the browser.</p>
